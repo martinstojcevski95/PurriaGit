@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27956407025",
+    "firebase_url": "https://purriadb.firebaseio.com",
+    "project_id": "purriadb",
+    "storage_bucket": "purriadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27956407025:android:58f244f878ed617e775750",
+        "android_client_info": {
+          "package_name": "com.StojcevskiStudios.PurriaFarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27956407025-399828g0rc5r1g4ia76kgbkik5le2143.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Pbu57wHS16EleJ_uh35CjL_KZFseMV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27956407025-399828g0rc5r1g4ia76kgbkik5le2143.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
